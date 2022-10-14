@@ -5,6 +5,9 @@ int main()
  int RQ[100], i, j, n, totalheadmoment=0, initial, size, move;'
   
   njan fury vanam
+  
+  appurath iriknath nakki vanam
+  
  printf("Enter the no of requests:");
  scanf("%d",&n);
  printf("Enter the request sequence:");
